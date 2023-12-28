@@ -65,16 +65,18 @@ function About() {
           </StyledSvg>
           <StyledText>Sobre Mim</StyledText>
           <StyledSubText>
-            Olá, eu sou o Thiago. Estudante de Ciências da Computação e
-            desenvolvedor web aprimorando habilidades no desenvolvimento de
-            interfaces e sistemas. Busco minha primeira oportunidade
-            profissional, para aplicar meus conhecimentos em tecnologia e
-            solucionar problemas reais. Me considero um profissional pró-ativo,
-            que gosta de desafios, preza pela qualidade de tudo que é entregue e
-            que está sempre em busca de novos aprendizados. Busco sempre me
-            manter atualizado com as novas tecnologias e tendências do mercado,
-            incorporando as melhores práticas no desenvolvimento e sempre
-            buscando melhorar, solucionando problemas com eficiência.
+            Estudante de Ciências da Computação e
+            desenvolvedor web proficiente no desenvolvimento de sistemas. Com
+            habilidades em React e Node.js, sou capaz de desenvolver soluções
+            web completas, desde interfaces responsivas que se destacam pela
+            usabilidade e design, até a construção de sistemas robustos e
+            funcionais. Seja um e-commerce, um site para seu negócio ou uma nova
+            ideia, estou pronto para trabalhar no seu projeto e fornecer
+            soluções que superem suas expectativas. É muito importante para mim
+            realizar entregas de qualidade e no prazo exigido, garantindo a
+            satisfação do cliente. Me matenho sempre atualizado com as novas
+            tecnologias e tendências do mercado, incorporando as melhores
+            práticas no desenvolvimento e sempre buscando melhorar.
           </StyledSubText>
         </Fade>
       </StyledSubTextWrapper>

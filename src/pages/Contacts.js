@@ -84,7 +84,7 @@ function Contact({ currentTheme }) {
           <a href="https://contate.me/thiago_dev" target="_blank">
             <Phone alt="Telefone" width="50px" height="50px" />
           </a>
-          <a href="mailto:thiagodsouza.3@gmail.com" target="_blank">
+          <a href="mailto:contato@thiagosouzadev.com" target="_blank">
             <Email alt="Email" width="50px" height="50px" />
           </a>
         </SocialContainer>

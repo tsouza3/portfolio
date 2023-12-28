@@ -98,16 +98,6 @@ function Navbar({ toggleTheme, currentTheme }) {
             <StyledList>
               <StyledListItem>
                 <StyledLink
-                  to="inicio"
-                  smooth={true}
-                  duration={500}
-                  exact={true}
-                >
-                  Inicio
-                </StyledLink>
-              </StyledListItem>
-              <StyledListItem>
-                <StyledLink
                   to="sobremim"
                   smooth={true}
                   exact={true}

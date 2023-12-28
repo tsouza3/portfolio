@@ -9,7 +9,7 @@ import Navbar from "./components/Navbar/Navbar.js";
 import { ThemeProvider } from "styled-components";
 
 const lightTheme = {
-  background: "#ffffff",
+  background: "#f9f9f9",
   backgroundImage: "linear-gradient(-60deg, #ff5858 0%, #f09819 100%);",
   aboutBackground: "linear-gradient(-60deg, #ff5858 0%, #f09819 100%);",
   color: "#f09819",

@@ -29,7 +29,7 @@ function Skills() {
       />
       <StyledCard
         titulo="Node"
-        descricao="Sou proficiente em Node.js para o backend. Possuo habilidades em construção de APIs RESTful, integração de bancos de dados 
+        descricao="Sou proficiente em Node.js para o backend. Possuo habilidades em construção de APIs REST, integração de bancos de dados 
       com Sequelize/Mongoose, uso do Express para rotas HTTP e WebSockets para comunicação em tempo real. "
         icon={NodeIcon}
       />

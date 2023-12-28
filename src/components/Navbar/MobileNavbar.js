@@ -94,14 +94,6 @@ export default function MobileNavbar({ menuIsVisible, setMenuIsVisible }) {
         />
         <StyledNav>
           <StyledLink
-            to="inicio"
-            smooth={true}
-            duration={500}
-            onClick={closeNavbar}
-          >
-            Início
-          </StyledLink>
-          <StyledLink
             to="sobremim"
             smooth={true}
             duration={500}
