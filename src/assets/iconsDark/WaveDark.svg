@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <defs>
+    <linearGradient id="meuDegradê" x1="0%" y1="0%" x2="100%" y2="0%">
+   <stop offset="0%" stop-color="#9353C0FF" />
+      <stop offset="100%" stop-color="#CA62F0FF" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#meuDegradê)" fill-opacity="1" d="M0,224L48,186.7C96,149,192,75,288,64C384,53,480,107,576,128C672,149,768,139,864,112C960,85,1056,43,1152,37.3C1248,32,1344,64,1392,80L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+</svg>
